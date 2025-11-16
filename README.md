@@ -16,4 +16,4 @@ This repository contains two example projects demonstrating the power and simpli
 - RESTful endpoints for basic operations (Create, Read, Update, Delete).
 - Includes sample HTML/ Bootstrap/ Jinja frontend to interact with the API.
 - PostreSQL for the database (Additionally experimented with SQLite3 and MySQL).
-- Authentication and Authorization
+- Authentication and Authorization.
