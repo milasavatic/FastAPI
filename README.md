@@ -14,4 +14,4 @@ This repository contains two example projects demonstrating the power and simpli
 - Built with FastAPI and Python.
 - Clean and minimal project structure.
 - RESTful endpoints for basic operations (Create, Read, Update, Delete).
-- Includes sample HTML/Bootstrap/Jinja frontend to interact with the API.
+- Includes sample HTML/ Bootstrap/ Jinja frontend to interact with the API.
